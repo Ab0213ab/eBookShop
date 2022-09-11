@@ -1,7 +1,4 @@
-## Provisio Hotels
-Capstone Project Mirror Repository
-
-Original Repository: https://github.com/Jacob-Breault/Provisio
+## eBookShop
 
 ## Table of Contents
 1. [Application Functionality Screen Shots](#application-functionality-screen-shots)
