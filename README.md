@@ -14,7 +14,7 @@ Original Repository: https://github.com/Jacob-Breault/Provisio
 
 Book Inventory stored in database ->                   |  Cart and Customer Checkout Form ->               |  Purchase Summary
 :-------------------------:|:-------------------------:|:-------------------------:
-![ScreenShot](ebookshop/WebContent/images/landing.PNG)  |  ![ScreenShot](/images/cart.PNG) | ![ScreenShot](/images/checkout.PNG)
+![ScreenShot](ebookshop/WebContent/images/landing.PNG)  |  ![ScreenShot]((ebookshop/WebContent/images/cart.PNG) | ![ScreenShot]((ebookshop/WebContent/images/checkout.PNG)
 
 <hr>
 
