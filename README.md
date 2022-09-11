@@ -269,12 +269,7 @@ C:\Users\username\Tomcat10\webapps\Provisio> ..\..\bin\startup
 [Back to Table of Contents](#table-of-contents)
 
 ## Author Information
-Designed and built by Andrew B. Schaefer [(Ab0213ab)](https://github.com/Ab0213ab) in tandem with:
-- Caleb Mastromonaco [(CMastro)](https://github.com/CMastrom)
-- Parrish Ward [(PWard1690)](https://github.com/Pward1690) 
-- Mitchell Kwon [(battletree)](https://github.com/battletree) 
-- Jacob Breault [(jacob-breault)](https://github.com/Jacob-Breault)
-- Cameron Frison [(The-Freezen)](https://github.com/The-Freezen).
+Designed and built by Andrew B. Schaefer [(Ab0213ab)](https://github.com/Ab0213ab) with inspiration from the E-BookShop assignment from *Beginning Jakarta EE Web Development* by Luciano Manelli and Giulio Zambon.
 
 LinkedIn: https://www.linkedin.com/in/andrewbschaefer/
 
