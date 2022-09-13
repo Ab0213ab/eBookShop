@@ -4,7 +4,7 @@
 1. [Application Functionality Screen Shots](#application-functionality-screen-shots)
 2. [Application Description](#application-description)
 3. [Technologies Used](#technologies-used)
-4. [Author Information](#author-information)
+4. [Developer Information](#developer-information)
 
 ## Application Functionality Screen Shots
 
@@ -36,7 +36,7 @@ This is a simple, but fully functioning web-based application that used advanced
 
 [Back to Table of Contents](#table-of-contents)
 
-## Author Information
+## Developer Information
 Designed and built by Andrew B. Schaefer [(Ab0213ab)](https://github.com/Ab0213ab) with inspiration from the E-BookShop assignment from *Beginning Jakarta EE Web Development* by Luciano Manelli and Giulio Zambon.
 
 LinkedIn: https://www.linkedin.com/in/andrewbschaefer/
