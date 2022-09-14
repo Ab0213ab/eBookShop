@@ -32,6 +32,7 @@ This is a simple, but fully functioning web-based application that used advanced
 - XML
 - Tomcat Server
 - MySQL
+- Eclipse IDE
 - MVC architecture
 
 [Back to Table of Contents](#table-of-contents)
