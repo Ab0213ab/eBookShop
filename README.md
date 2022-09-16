@@ -1,12 +1,12 @@
 ## eBookShop
 
 ## Table of Contents
-1. [Application Functionality Screen Shots](#application-functionality-screen-shots)
+1. [Functionality Screen Shots](#functionality-screen-shots)
 2. [Application Description](#application-description)
 3. [Technologies Used](#technologies-used)
 4. [Developer Information](#developer-information)
 
-## Application Functionality Screen Shots
+##Functionality Screen Shots
 
 Book Inventory stored in database ->                   |  Cart and Customer Checkout Form ->               |  Purchase Summary
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -30,7 +30,7 @@ This is a simple, but fully functioning web-based application that used advanced
 - JavaScript
 - SQL scripts
 - XML
-- Tomcat Server
+- Tomcat Server for local hosting
 - MySQL
 - Eclipse IDE
 - MVC architecture
