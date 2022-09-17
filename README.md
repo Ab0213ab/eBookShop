@@ -6,7 +6,7 @@
 3. [Technologies Used](#technologies-used)
 4. [Developer Information](#developer-information)
 
-##Functionality Screen Shots
+## Functionality Screen Shots
 
 Book Inventory stored in database ->                   |  Cart and Customer Checkout Form ->               |  Purchase Summary
 :-------------------------:|:-------------------------:|:-------------------------:
