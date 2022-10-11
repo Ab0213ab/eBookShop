@@ -18,7 +18,7 @@ Book Inventory stored in database ->                   |  Cart and Customer Chec
 
 ### Application Description
 
-This is a simple, but fully functioning web-based application that used advanced Java/JSP, HTML, CSS, JavaScript, and SQL concepts to create a mock book e-commerce website. The application allows users to view the eBookShop's book inventory which is stored in a MySQL database, choose their desired books, and make a dummy purchase. Users also have the ability to remove items from their car and once the form is submitted, a summary of the books chosen as well as the total price for the entire purchase is displayed. The application also features the use of servlets, Tomcat, JDBC for database concerns, responsive front-end design, and the MVC architecture.
+This is a simple, but fully functioning web-based application that used Java/JSP, HTML, CSS, JavaScript, and SQL concepts to create a mock book e-commerce website. The application allows users to view the eBookShop's book inventory which is stored in a MySQL database, choose their desired books, and make a dummy purchase. Users also have the ability to remove items from their car and once the form is submitted, a summary of the books chosen as well as the total price for the entire purchase is displayed. The application also features the use of servlets, Tomcat, JDBC for database concerns, responsive front-end design, and the MVC architecture.
 
 [Back to Table of Contents](#table-of-contents)
 
